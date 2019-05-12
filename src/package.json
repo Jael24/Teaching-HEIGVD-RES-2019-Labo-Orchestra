@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jael24/Teaching-HEIGVD-RES-2019-Labo-Orchestra"
+  },
   "author": "Jael Dubey",
   "license": "ISC",
   "dependencies": {
